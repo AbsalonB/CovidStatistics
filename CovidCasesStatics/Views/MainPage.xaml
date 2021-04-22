@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:forms="clr-namespace:dotMorten.Xamarin.Forms;assembly=dotMorten.Xamarin.Forms.AutoSuggestBox"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             x:Class="CovidCasesStatics.Views.MainPage"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             Title="Covid Statistics">
+
+    <Grid>
+        <StackLayout>
+            <forms:AutoSuggestBox PlaceholderText="Search" WidthRequest="200"
+                TextChanged="AutoSuggestBox_TextChanged" 
+                SuggestionChosen="AutoSuggestBox_SuggestionChosen"  />
+            <ListView ItemsSource="{Binding Report}" RowHeight="150">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell Appearing="ViewCell_Appearing">
+                            <Frame CornerRadius="5" Margin="5" BackgroundColor="White">
+                                <StackLayout> 
+                                    <Label Text="{Binding RegionOrProvince, StringFormat='Province: {0}'}" FontSize="Large"></Label>
+                                    <Label Text="{Binding Confirmed, StringFormat='CASES: {0}'}"></Label>
+                                    <Label Text="{Binding Deaths, StringFormat='DEATHS: {0}'}"></Label>
+                                </StackLayout>
+                            </Frame>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </Grid>
+</ContentPage>

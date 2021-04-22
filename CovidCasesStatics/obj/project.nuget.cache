@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufFLpr7yjVk2NBzSx74XrUngv5LTVNVEVIqM0J+IQ4MWQ+ps8TqUEQbf5xtsHUg0TewiOQQzcQNVReJvaL36tQ==",
+  "success": true,
+  "projectFilePath": "C:\\XamarinProjects\\CovidCasesStatics\\CovidCasesStatics\\CovidCasesStatics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\acr.userdialogs\\7.1.0.483\\acr.userdialogs.7.1.0.483.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\dotmorten.xamarin.forms.autosuggestbox\\1.1.1\\dotmorten.xamarin.forms.autosuggestbox.1.1.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\dotmorten.xamarin.forms.autosuggestboxchange\\1.1.1\\dotmorten.xamarin.forms.autosuggestboxchange.1.1.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\portable.ninject\\3.3.1\\portable.ninject.3.3.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Portable.Ninject 3.3.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Portable.Ninject",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

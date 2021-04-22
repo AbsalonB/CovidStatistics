@@ -1,0 +1,14 @@
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\CovidCasesStatics.csprojAssemblyReference.cache
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\CovidCasesStatics.AssemblyInfoInputs.cache
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\CovidCasesStatics.AssemblyInfo.cs
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\CovidCasesStatics.csproj.CoreCompileInputs.cache
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\CovidCasesStatics.dll
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\ref\CovidCasesStatics.dll
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\CovidCasesStatics.pdb
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\bin\Debug\netstandard2.0\CovidCasesStatics.deps.json
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\bin\Debug\netstandard2.0\CovidCasesStatics.dll
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\bin\Debug\netstandard2.0\ref\CovidCasesStatics.dll
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\bin\Debug\netstandard2.0\CovidCasesStatics.pdb
+C:\XamarinProjects\CovidCasesStatics\CovidCasesStatics\obj\Debug\netstandard2.0\XamlC.stamp
